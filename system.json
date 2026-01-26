@@ -1,4 +1,5 @@
 {
+  "id": "woinnew",
   "name": "woinfoundry",
   "title": "WOIN Foundry",
   "description": "An implementation of WOIN NEW for foundry, capable of running other WOIN systems (though without premade compendiums).",
@@ -9,6 +10,10 @@
     "maximum": "10"
   },
   "authors": [
+    {
+      "name": "mediamagnet",
+      "discord": "mediamagnet"
+    },
     {
       "name": "mcarthur",
       "discord": "McArthur#2854"
