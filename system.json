@@ -38,8 +38,8 @@
     "primaryTokenAttribute":  "health",
     "secondaryTokenAttribute":  "power",
     "url":  "https://github.com/MediaMagnet/woinfoundry",
-    "manifest":  "https://github.com/MediaMagnet/woinfoundry/releases/download/0.4.6-alpha/system.json",
-    "download":  "https://github.com/MediaMagnet/woinfoundry/releases/download/0.4.6-alpha/woinfoundry.zip",
+    "manifest":  "https://github.com/MediaMagnet/woinfoundry/releases/download/alpha/system.json",
+    "download":  "https://github.com/MediaMagnet/woinfoundry/releases/download/alpha/woinfoundry.zip",
     "license":  "LICENSE.txt",
     "packs":  [
                   {
