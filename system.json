@@ -1,12 +1,12 @@
-﻿{
+{
     "id":  "woinfoundry",
     "title":  "WOIN Foundry",
     "description":  "An implementation of WOIN NEW for foundry, capable of running other WOIN systems (though without premade compendiums).",
-    "version":  "0.4.4",
+    "version":  "0.4.5",
     "compatibility":  {
                           "minimum":  "13",
                           "verified":  "13",
-                          "maximum":  "13"
+                          "maximum":  "14"
                       },
     "authors":  [
                     {
@@ -33,8 +33,8 @@
     "styles":  [
                    "styles/stylev2.css"
                ],
-    "gridDistance":  5,
-    "gridUnits":  "ft",
+    "grid.distance":  5,
+    "grid.units":  "ft",
     "primaryTokenAttribute":  "health",
     "secondaryTokenAttribute":  "power",
     "url":  "https://github.com/MediaMagnet/woinfoundry",
